@@ -19,7 +19,6 @@ while True:
         gen_comm = tweetbot.generate_text(30)
         print('COMMENT: %s' % (gen_comm))
         gen = input(u'\nGenerate headline? Y/N\n')
-        break
 
     elif gen == 'N' or gen == 'n':
         exit()
