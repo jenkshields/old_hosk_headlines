@@ -1,4 +1,7 @@
 # hosk_headlines
+
+NOTE: this has been [rewritten in ruby](https://github.com/jenkshields/hosk_headlines).
+
 Python bot to generate nzherald-style Mike Hosking headlines &amp; comments. Though created from twitter bots this does not post to twitter.
 
 Update: Returned to esdalmaijer's markovbot as basis. hosk.py (based on srome's tutorial) runs but does not output... hosking_bot.py runs as expected. 
